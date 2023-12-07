@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jwQjyUycEVor3fhDRolMiOaib4xcRYBdtvWzX+yM5gM=",
+  "Source": "player-card-api",
+  "BasePath": "_content/player-card-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
